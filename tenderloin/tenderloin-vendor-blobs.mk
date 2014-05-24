@@ -35,9 +35,10 @@ PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/hp/tenderloin/proprietary/lib/libcamera.so:system/lib/libcamera.so \
     vendor/hp/tenderloin/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
+    vendor/hp/tenderloin/proprietary/lib/libCB.so:system/lib/libCB.so \
     vendor/hp/tenderloin/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
-    vendor/hp/tenderloin/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/hp/tenderloin/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
+    vendor/hp/tenderloin/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/hp/tenderloin/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/hp/tenderloin/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/hp/tenderloin/proprietary/lib/libqdp.so:system/lib/libqdp.so \
