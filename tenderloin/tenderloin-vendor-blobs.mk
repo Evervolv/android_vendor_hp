@@ -26,14 +26,11 @@ PRODUCT_PACKAGES := \
 PRODUCT_COPY_FILES += \
     packages/wallpapers/LivePicker/android.software.live_wallpaper.xml:/system/etc/permissions/android.software.live_wallpaper.xml
 
-PRODUCT_COPY_FILES += \
-    vendor/hp/tenderloin/proprietary/lib/libcamera.so:obj/lib/libcamera.so
 
 PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/hp/tenderloin/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/hp/tenderloin/proprietary/lib/libqmi.so:system/lib/libqmi.so \
-    vendor/hp/tenderloin/proprietary/lib/libcamera.so:system/lib/libcamera.so \
     vendor/hp/tenderloin/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/hp/tenderloin/proprietary/lib/libCB.so:system/lib/libCB.so \
     vendor/hp/tenderloin/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
