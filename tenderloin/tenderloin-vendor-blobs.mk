@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/hp/tenderloin/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/hp/tenderloin/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-    vendor/hp/tenderloin/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/hp/tenderloin/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/hp/tenderloin/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/hp/tenderloin/proprietary/lib/libqmi.so:system/lib/libqmi.so \
