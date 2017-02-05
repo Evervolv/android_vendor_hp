@@ -55,3 +55,10 @@ PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/hp/tenderloin/proprietary/bin/thermald:system/bin/thermald \
     vendor/hp/tenderloin/proprietary/etc/thermald.conf:system/etc/thermald.conf
+
+PRODUCT_COPY_FILES += \
+    vendor/hp/tenderloin/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/hp/tenderloin/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+    vendor/hp/tenderloin/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/hp/tenderloin/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/hp/tenderloin/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
