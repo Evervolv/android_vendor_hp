@@ -53,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/etc/firmware/wm8958_mbc.wfw:system/etc/firmware/wm8958_mbc.wfw \
     vendor/hp/tenderloin/proprietary/etc/firmware/wm8958_mbc_vss.wfw:system/etc/firmware/wm8958_mbc_vss.wfw \
     vendor/hp/tenderloin/proprietary/etc/firmware/wm8958_enh_eq.wfw:system/etc/firmware/wm8958_enh_eq.wfw \
-    vendor/hp/tenderloin/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/hp/tenderloin/proprietary/bin/thermald:system/bin/thermald \
     vendor/hp/tenderloin/proprietary/etc/thermald.conf:system/etc/thermald.conf
 
